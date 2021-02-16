@@ -1,0 +1,4 @@
+ROOT: ROOT
+DATA_PATH: ../../data/
+THRESHOLD: 0.2
+MIN_DF: 10

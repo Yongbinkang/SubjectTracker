@@ -1,0 +1,9 @@
+
+
+WV_INPUT_DATA_PATH: ../../data/apoDescriptions.csv
+DATA_TYPE: tokens
+TRAIN_PATH: ../../model/
+MAX_PHRASE_LENGTH: 3
+DIM_SIZE: 100
+WINDOW_SIZE: 5
+MIN_COUNT: 3	

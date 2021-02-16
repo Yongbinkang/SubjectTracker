@@ -1,0 +1,6 @@
+
+INPUT_DATA_DIR: ../../data/missing_subject_terms.csv
+OUTPUT_DIR: ../../data/
+MIN_DF: 10
+APO_MODEL_DIR: ../../model/tokens_skipgram.100d.model
+MIN_SIM: 0.7

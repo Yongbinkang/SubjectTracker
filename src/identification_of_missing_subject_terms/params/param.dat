@@ -1,0 +1,3 @@
+DESCRIPTION_DATA: ../../data/apoDescriptions.csv
+SUBJECT_TERM_DATA: ../../data/apoSubjects.csv
+OUTPUT_DIR : ../../data/
