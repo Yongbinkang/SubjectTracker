@@ -1,8 +1,8 @@
-# Methodology for Refining Subject Terms and Supporting Subject Indexing with Taxonomy: A Case Study of the APO Digital Repository
+# SubjectTracker: A Framework for Refining Subject Terms and Inducing Subject Indexing with Taxonomy
 
 ## Introduction
 
-In digital repositories, it is crucial to refine existing subject terms and exploit a taxonomy with subject terms, in order to promote information retrieval tasks such as indexing, cataloging and searching of digital documents. SubTermTracker is a framework addressing how to refine an existing set of subject terms, often containing irrelevant ones or creating noise, that are used to index digital documents. Further, it contains the implementation of automatically inducing a subject term taxonomy to capture and utilise the semantic relations among subject terms.
+In digital repositories, it is crucial to refine existing subject terms and exploit a taxonomy with subject terms, in order to promote information retrieval tasks such as indexing, cataloging and searching of digital documents. SubjectTracker is a framework addressing how to refine an existing set of subject terms, often containing irrelevant ones or creating noise, that are used to index digital documents. Further, it contains the implementation of automatically inducing a subject term taxonomy to capture and utilise the semantic relations among subject terms.
 
 ## Setup steps
 1. Clone the repository
