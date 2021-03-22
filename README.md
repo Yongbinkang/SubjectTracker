@@ -44,6 +44,16 @@ All source code directories contain a demo program file (e.g. induce_taxonomy/de
 
 ## Citation
 
+@article{Kang_dss:2021,
+	author = {Kang, Yong-Bin and Woo, Jihoon and Kneebone, Les and Sellis, Timos},
+	doi = {https://doi.org/10.1016/j.dss.2021.113542},
+	isbn = {0167-9236},
+	journal = {Decision Support Systems},
+	keywords = {Controlled terms; Subject taxonomies; Subject headings; Thesaurus construction; APO; Digital library},
+	title = {Methodology for refining subject terms and supporting subject indexing with taxonomy: A case study of the APO digital repository},
+	url = {https://www.sciencedirect.com/science/article/pii/S016792362100052X},
+	year = {2021}}
+
 
 
 
